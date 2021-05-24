@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mayur Kulkarni, CEO of Adagrad AI. You can learn about us on our [website](https://adagrad.ai)
+- 👀 I work on Computer Vision research. My expertise is in Object Detection, Semi-supervised learning, Geometric Deep Learning, and High-performance computing / GPU Programming. 
+- 💞️ My favorite tools are C/C++, CUDA, Python, and Java. 
+- 📫 Reach out to me on my first name at adagrad dot ai.
